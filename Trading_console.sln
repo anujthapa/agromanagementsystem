@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trading_console", "Trading_console\Trading_console.csproj", "{6945825F-C0BE-43CA-87CD-6D52F6BF3700}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trading_bal", "Trading_bal\Trading_bal.csproj", "{F23C12EB-C8B1-4598-AC9B-5F04E7329430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trading_dal", "Trading_dal\Trading_dal.csproj", "{1B853B32-073E-4587-B034-796CF4E8D148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trading_win", "Trading_win\Trading_win.csproj", "{7410A907-95CE-423B-B814-9682F4CB5775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6945825F-C0BE-43CA-87CD-6D52F6BF3700}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6945825F-C0BE-43CA-87CD-6D52F6BF3700}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6945825F-C0BE-43CA-87CD-6D52F6BF3700}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6945825F-C0BE-43CA-87CD-6D52F6BF3700}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F23C12EB-C8B1-4598-AC9B-5F04E7329430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F23C12EB-C8B1-4598-AC9B-5F04E7329430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F23C12EB-C8B1-4598-AC9B-5F04E7329430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F23C12EB-C8B1-4598-AC9B-5F04E7329430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B853B32-073E-4587-B034-796CF4E8D148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B853B32-073E-4587-B034-796CF4E8D148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B853B32-073E-4587-B034-796CF4E8D148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B853B32-073E-4587-B034-796CF4E8D148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7410A907-95CE-423B-B814-9682F4CB5775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7410A907-95CE-423B-B814-9682F4CB5775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7410A907-95CE-423B-B814-9682F4CB5775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7410A907-95CE-423B-B814-9682F4CB5775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
